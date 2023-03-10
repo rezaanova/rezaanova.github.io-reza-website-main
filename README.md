@@ -14,7 +14,7 @@ My personal website built using:
 
 ## Showcase Project
 
-- [x] Live demo website: [https://rezaanova.github.io/reza-website-main/](https://rezaanova.github.io/reza-website-main/).
+- [x] Live demo website: [https://github.com/rezaanova/rezaanova.github.io-reza-website-main].
 - [x] Repository github: [https://github.com/rezaanova/rezaanova.github.io/reza-website-main](https://github.com/rezaanova/rezaanova.github.io/reza-website-main).
 
 ###### Light Mode
